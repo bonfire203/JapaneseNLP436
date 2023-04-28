@@ -2,6 +2,8 @@ Creators: Brandon Benoit and Will Lawrence
 
 Project: CS436 NLP, Kana2Kanji
 
+Link to repo: https://github.com/bonfire203/JapaneseNLP436
+
 In this repo, there is a folder called "AssortmentOfWork". This folder holds 3 Jupyter files and one json folder. These files simple show supplementary work we made for this project.
 
 Outside of that folder exists two files. Kanjify, is the method implementing just the tagger. t5_generate_altered_for_japanese is the model based from Dr. Kennington's code.
